@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**mehmettemel/mehmettemel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://res.cloudinary.com/dv4i7j6jq/image/upload/v1631990376/_3dtext2gif_jbosodrzkauc_tlakon.gif" alt="Temel" />
+</h1>
 
-Here are some ideas to get you started:
+## Hey! 👋
+I'm Temel, a 24 years old front end developer from Turkey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 TypeScript, JavaScript
+- ⚙️ React, Vue
+- 👁️ SASS, CSS, tailwindcss
+
+
+## Contact
+- [Mehmet Temel](https://www.linkedin.com/in/mehmet-temel-201bb2ba/) on Linkedin
+- [@temel_dev](https://twitter.com/temel_dev) on Twitter
+- [@mehmettemelim](https://www.instagram.com/mehmettemelim) on Instagram
