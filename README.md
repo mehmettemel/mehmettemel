@@ -4,7 +4,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Temel, a 24 years old front end developer from Turkey.
+I'm Temel, a 26 years old front end developer from Turkey.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
