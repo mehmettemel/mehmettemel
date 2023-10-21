@@ -14,5 +14,3 @@ I'm Temel, a 26 years old front end developer from Turkey.
 
 ## Contact
 - [Mehmet Temel](https://www.linkedin.com/in/mehmet-temel-201bb2ba/) on Linkedin
-- [@temel_dev](https://twitter.com/temel_dev) on Twitter
-- [@mehmettemelim](https://www.instagram.com/mehmettemelim) on Instagram
